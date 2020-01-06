@@ -1,5 +1,5 @@
 str="Hey"
-num=42
+num=input('Enter a number please: ')
 print(str,num)
 
 
